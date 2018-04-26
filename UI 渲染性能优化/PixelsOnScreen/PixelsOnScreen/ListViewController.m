@@ -34,6 +34,12 @@ static NSString * const kTitleKey = @"title";
     
     [_userInfoList addObjectsFromArray:_userInfoList];
     [_userInfoList addObjectsFromArray:_userInfoList];
+    [_userInfoList addObjectsFromArray:_userInfoList];
+    [_userInfoList addObjectsFromArray:_userInfoList];
+    [_userInfoList addObjectsFromArray:_userInfoList];
+    [_userInfoList addObjectsFromArray:_userInfoList];
+    [_userInfoList addObjectsFromArray:_userInfoList];
+    [_userInfoList addObjectsFromArray:_userInfoList];
 }
 
 #pragma mark - UITableViewDataSource, UITableViewDelegate
@@ -48,6 +54,7 @@ static NSString * const kTitleKey = @"title";
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"CustomCell" forIndexPath:indexPath];
+
     
     NSDictionary *userInfo = _userInfoList[indexPath.row];
     cell.imageView.image = [UIImage imageNamed:userInfo[kImageNameKey]];
@@ -65,6 +72,8 @@ static NSString * const kTitleKey = @"title";
         cell.imageView.layer.cornerRadius = 0;
         cell.imageView.layer.masksToBounds = NO;
     }
+    
+//    cell.layer.drawsAsynchronously = YES;
     
     return cell;
 }
