@@ -52,7 +52,7 @@ iOS App 性能优化理论与实践
 - [iOS耗电量测试方法及其数据收集](https://mp.weixin.qq.com/s?__biz=MjM5ODY4ODIxOA==&mid=2653201881&idx=1&sn=d4c9e65ea8af5ec1d8835bc32351b10f&chksm=bd16e16c8a61687afd973568e003e2aa6c20e3a9ecd9b93b11dc67586c13ebaa3b308eed3095&mpshare=1&scene=1&srcid=0802WyHYGUMINTB5fIYeBM8w#rd)
 
 #### 3.4 网络优化
-- [深度优化iOS网络模块 - MrPeak](http://mrpeak.cn/blog/ios-network/)
+- [深度优化iOS网络模块 - MrPeak](https://zhuanlan.zhihu.com/p/22943142)
 - [移动 APP 网络优化概述 - bang](https://blog.cnbang.net/tech/3531/)
 
 #### 3.5 Hybrid 优化
