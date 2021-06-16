@@ -43,7 +43,7 @@ iOS App 性能优化理论与实践
 - [优化UITableViewCell高度计算的那些事](http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/)
 - [Perfect Smooth Scrolling in UITableViews](https://medium.com/ios-os-x-development/perfect-smooth-scrolling-in-uitableviews-fd609d5275a5)（[中文翻译](https://southpeak.github.io/2015/12/20/perfect-smooth-scrolling-in-uitableviews/)）
 - [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
-- [UIKit性能调优实战讲解](https://bestswifter.com/uikitxing-neng-diao-you-shi-zhan-jiang-jie/)
+- [UIKit性能调优实战讲解](https://github.com/bestswifter/blog/blob/master/articles/uikit-optimization.md)
 - [iOS 高效添加圆角效果实战讲解](https://bestswifter.com/efficient-rounded-corner/)
 - [UITableView优化技巧](http://www.cocoachina.com/ios/20150602/11968.html)
 - [iOS图片加载速度极限优化—FastImageCache解析](https://blog.cnbang.net/tech/2578/)
