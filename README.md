@@ -64,8 +64,14 @@ iOS App 性能优化理论与实践
 - [阿里数据iOS端启动速度优化的一些经验](http://www.cocoachina.com/ios/20180202/22120.html)
 - [iOS App 启动性能优化 - bugly](http://www.10tiao.com/html/330/201708/2653579242/1.html)
 - [优化 App 的启动时间](http://yulingtianxia.com/blog/2016/10/30/Optimizing-App-Startup-Time/)
-- [今日头条iOS客户端启动速度优化](https://techblog.toutiao.com/2017/01/17/iosspeed/)
-- [App Startup Time: Past, Present, and Future](https://developer.apple.com/videos/play/wwdc2017/413)
+- [今日头条iOS客户端启动速度优化](https://mp.weixin.qq.com/s/oiX4W2TgOn1otvzVVqdPWg)
+- [如何精确度量 iOS App 的启动时间](https://www.jianshu.com/p/c14987eee107)
+- [App Startup Time: Past, Present, and Future - WWDC2017](https://developer.apple.com/videos/play/wwdc2017/413)
+- [抖音品质建设 - iOS启动优化《原理篇》](https://mp.weixin.qq.com/s/3-Sbqe9gxdV6eI1f435BDg)
+- [抖音品质建设 - iOS启动优化《实战篇》](https://mp.weixin.qq.com/s/ekXfFu4-rmZpHwzFuKiLXw)
+- [抖音研发实践：基于二进制文件重排的解决方案 APP启动速度提升超15%](https://mp.weixin.qq.com/s/Drmmx5JtjG3UtTFksL6Q8Q)
+- [Optimizing App Launch - WWDC19](https://developer.apple.com/videos/play/wwdc2019/423/)
+- [iOS应用启动性能优化资料](https://everettjf.github.io/2018/08/06/ios-launch-performance-collection/)
 - [干货 | Trip.com APP 启动优化实践 - 携程技术](https://mp.weixin.qq.com/s/smWjs2X8HWvcvKW_DSXYJA)
 
 #### 3.7 安装包瘦身（App size 优化）
