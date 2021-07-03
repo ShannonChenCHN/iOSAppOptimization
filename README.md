@@ -101,6 +101,7 @@ iOS App 性能优化理论与实践
 #### 4.2 OOM 问题
 - [iOS微信内存监控 -  腾讯WeTest](https://mp.weixin.qq.com/s/r0Q7um7P1p2gIb0aHldyNw)
 - [iOS性能优化实践：头条抖音如何实现OOM崩溃率下降50%+](https://mp.weixin.qq.com/s/4-4M9E8NziAgshlwB7Sc6g)
+- [iOS Out-Of-Memory 原理阐述及方案调研](https://juejin.cn/post/6844903749836603400)
 
 #### 5. 崩溃日志收集和分析
 - [iOS App 连续闪退时如何上报 crash 日志 - MrPeak](https://mp.weixin.qq.com/s/ADj-BT7itSfHVIvyAoseRA)
