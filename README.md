@@ -104,7 +104,10 @@ iOS App 性能优化理论与实践
 - [iOS Out-Of-Memory 原理阐述及方案调研](https://juejin.cn/post/6844903749836603400)
 
 #### 5. 崩溃日志收集和分析
-- [iOS App 连续闪退时如何上报 crash 日志 - MrPeak](https://mp.weixin.qq.com/s/ADj-BT7itSfHVIvyAoseRA)
+- [iOS App 连续闪退时如何上报 crash 日志 - MrPeak](https://mp.weixin.qq.com/s/ADj-BT7itSfHVIvyAoseRA) ⭐️
+- [漫谈 iOS Crash 收集框架 - 念茜](https://mp.weixin.qq.com/s?__biz=MjM5NTIyNTUyMQ==&mid=208483273&idx=1&sn=37ee88e06e7426f59f3074c536370317&scene=21)⭐️
+- [Diagnosing Issues Using Crash Reports and Device Logs - Apple Developer](https://developer.apple.com/documentation/xcode/diagnosing-issues-using-crash-reports-and-device-logs) ⭐️
+- [iOS 启动连续闪退保护方案 - 微信读书](https://wereadteam.github.io/2016/05/23/GYBootingProtection/)
 - [iOS runtime实用篇--和常见崩溃say good-bye！](https://www.jianshu.com/p/5d625f86bd02)
 - [iOS异常捕获](http://www.iosxxx.com/blog/2015-08-29-iosyi-chang-bu-huo.html)
 - [大白健康系统--iOS APP运行时Crash自动修复系统](https://neyoufan.github.io/2017/01/13/ios/BayMax_HTSafetyGuard/)
