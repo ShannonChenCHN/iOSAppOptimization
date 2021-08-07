@@ -25,6 +25,7 @@ iOS App 性能优化理论与实践
 - [移动端监控体系之技术原理剖析](https://www.jianshu.com/p/8123fc17fe0e)
 - [ iOS 性能监控方案 - 沪江技术学院](https://github.com/aozhimin/iOS-Monitor-Platform)
 - [aozhimin/iOS-Monitor-Platform](https://github.com/aozhimin/iOS-Monitor-Platform)：iOS 性能监控 SDK —— Wedjat（华狄特）开发过程的调研和整理
+- [didi/DoraemonKit](https://github.com/didi/DoraemonKit#%E4%B8%89%E6%80%A7%E8%83%BD%E6%A3%80%E6%B5%8B)
 
 #### 2.2 卡顿检测和监控
 - [微信iOS卡顿监控系统](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207890859&idx=1&sn=e98dd604cdb854e7a5808d2072c29162&mpshare=1&scene=23&srcid=0705h7FPQcWYxo0OMO63B5Aj#rd)
