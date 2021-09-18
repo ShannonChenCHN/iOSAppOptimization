@@ -32,6 +32,7 @@ iOS App 性能优化理论与实践
 - [iOS应用UI线程卡顿监控 - MrPeak](https://mp.weixin.qq.com/s?__biz=MzI5MjEzNzA1MA==&mid=2650264136&idx=1&sn=052c1db8131d4bed8458b98e1ec0d5b0&chksm=f406837dc3710a6b49e76ce3639f671373b553e8a91b544e82bb8747e9adc7985fea1093a394#rd)
 - [如何检测 iOS app 卡顿导致的系统强杀 - MrPeak](https://mp.weixin.qq.com/s/FskmoclDyo9ho1bTU28XpA)
 - [Instrument调试界面卡顿](http://www.jianshu.com/p/9dbbc91c8059)
+- [iOS 稳定性问题治理：卡死崩溃监控原理及最佳实践 - 字节跳动技术团队](https://mp.weixin.qq.com/s/cEfIZGtUojKKbhIfUyhTMw)
 
 ### 3. 性能优化
 #### 3.1 App 整体优化
@@ -101,6 +102,7 @@ iOS App 性能优化理论与实践
 
 #### 4.2 OOM 问题
 - [iOS微信内存监控 -  腾讯WeTest](https://mp.weixin.qq.com/s/r0Q7um7P1p2gIb0aHldyNw)
+- [内存占用过高怎么办？iOS图片内存优化指南 - 腾讯 - 张恒铭](https://mp.weixin.qq.com/s/4_UOxUM7d2StQxzb5Sf2rw)
 - [iOS性能优化实践：头条抖音如何实现OOM崩溃率下降50%+](https://mp.weixin.qq.com/s/4-4M9E8NziAgshlwB7Sc6g)
 - [iOS Out-Of-Memory 原理阐述及方案调研](https://juejin.cn/post/6844903749836603400)
 
